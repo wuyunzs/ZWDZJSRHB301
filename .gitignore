@@ -1,0 +1,29 @@
+# Visual Studio 编译生成文件
+*.obj
+*.ilk
+*.pch
+*.exe
+*.pdb
+*.lib
+*.exp
+*.log
+*.sdf
+*.opensdf
+*.suo
+*.ipch
+*.ncb
+*.cache
+
+# 编译目录
+x64/
+Debug/
+Release/
+Release_x64/
+Debug_x64/
+bin/
+obj/
+
+# 其他临时文件
+.vs/
+.vscode/
+.DS_Store
